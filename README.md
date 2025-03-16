@@ -1,3 +1,3 @@
 # NLP
 
-## this is a python to explore text preprocessing in natural language processing 
+## this is a python code to explore text preprocessing in natural language processing 
